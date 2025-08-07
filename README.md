@@ -22,7 +22,7 @@ This guide walks you through creating a Windows Server EC2 instance in AWS, conn
 - AWS account with billing enabled
 - RDP client installed (Windows has this by default; Mac/Linux can use Microsoft Remote Desktop app)
 - AWS key pair (`.pem` file) for decrypting Administrator password
-- (Optional) AWS CLI configured if you want automation
+
 
 ---
 
